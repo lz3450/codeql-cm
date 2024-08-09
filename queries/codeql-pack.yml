@@ -1,0 +1,7 @@
+---
+library: false
+warnOnImplicitThis: false
+name: at-ws/tests
+version: 1.0.0
+dependencies:
+  codeql/python-all: ^1.0.4
