@@ -1,2 +1,4 @@
+*.bqrs
+
 /db
 /dot
